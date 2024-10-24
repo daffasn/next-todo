@@ -1,0 +1,11 @@
+.todo-input {
+    height: 32px;
+    width: 300px;
+    background: transparent;
+    border: none;
+    font-size: 20px;
+}
+
+.todo-input:focus {
+    outline: none;
+}
